@@ -2,3 +2,4 @@ C:\Users\SIK\source\repos\HowManyGirlfriends\x64\Debug\HowManyGirlfriends.exe
 C:\Users\SIKLAB\내 드라이브\CBNU\2024\고급컴퓨터프로그래밍_류성필\과제\HowManyGirlfriends\x64\Debug\HowManyGirlfriends.exe
 C:\Users\SIKLAB\source\repos\HowManyGirlfriends\x64\Debug\HowManyGirlfriends.exe
 C:\Users\SIKLAB\source\repos\HowManyGirlfriendsTest2\x64\Debug\HowManyGirlfriends.exe
+C:\Users\SIKLAB\Desktop\Howmany\gocomproject1\HowManyGirlfriendsTest2\x64\Debug\HowManyGirlfriends.exe
